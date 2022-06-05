@@ -8,4 +8,4 @@ Hi, my name is Yev. I am looking for collaborators to work with on a marine/mech
 * Hobbyist in of above-mentioned disciplines
 * Expert in heat exchangers/pumps/pipeline willing to contribute
 
-Please contact me either here on the discussion board or via LinkedIn: https://www.linkedin.com/in/yev-d-0344855a/
+Please contact me either [here on the discussion board](https://github.com/yev-d/OTEC-open-source/discussions/1) or via LinkedIn: https://www.linkedin.com/in/yev-d-0344855a/
