@@ -8,7 +8,7 @@ Hi, my name is Yev. I am looking for collaborators to work with on a marine/mech
 * Hobbyist in of above-mentioned disciplines
 * Expert in heat exchangers/pumps/pipeline willing to contribute
 
-Please contact me either [here on the discussion board](https://github.com/yev-d/OTEC-open-source/discussions/1) or via LinkedIn: https://www.linkedin.com/in/yev-d-0344855a/
+Please contact me either [here on the discussion board](https://github.com/yev-d/OTEC-open-source/discussions/1#discussion-4121236) or via LinkedIn: https://www.linkedin.com/in/yev-d-0344855a/
 
 ## Expectations
 
@@ -20,3 +20,23 @@ The water outlet depth = 150 to 200m (to have negligible effects on the marine e
 Below is the suggestion for the design besis.
 
 <img alt="design basis rev.00" src="IMG/Design_Basis_Rev.00.png" height=600>
+
+## In breif
+OTEC plants can be subdivided into the following seven technologies [[Reference: Technical Readiness of Ocean Thermal Energy Conversion (OTEC)]](https://github.com/yev-d/OTEC-open-source/blob/main/Literature%20Review/PDF/2009-11_Technical%20Readiness%20of%20Ocean%20Thermal%20Energy%20Conversion%20(OTEC)%20Nov-2009.pdf). Click on the section below to go to its discussion board.
+1.	[Cold water pipe](https://github.com/yev-d/OTEC-open-source/discussions/2#discussion-4123687)
+2.	[Heat exchangers](https://github.com/yev-d/OTEC-open-source/discussions/3#discussion-4123694)
+3.	[Platform-pipe interface](https://github.com/yev-d/OTEC-open-source/discussions/4#discussion-4123698)
+4.	[Platform](https://github.com/yev-d/OTEC-open-source/discussions/5#discussion-4123704)
+5.	[Power cable](https://github.com/yev-d/OTEC-open-source/discussions/6#discussion-4123707)
+6.	[Platform mooring system](https://github.com/yev-d/OTEC-open-source/discussions/7#discussion-4123709)
+7.	[Pumps and turbines](https://github.com/yev-d/OTEC-open-source/discussions/8#discussion-4123711)
+
+In addition following categories are considered:
+
+9.	[Environment](https://github.com/yev-d/OTEC-open-source/discussions/9#discussion-4123713)
+10.	[Economics](https://github.com/yev-d/OTEC-open-source/discussions/10#discussion-4123714)
+11.	[Maritime Law & Legal aspects](https://github.com/yev-d/OTEC-open-source/discussions/11#discussion-4123715)
+
+
+...
+
