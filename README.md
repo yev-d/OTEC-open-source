@@ -14,6 +14,9 @@ Please contact me either [here on the discussion board](https://github.com/yev-d
 
 To develop a robust concept design for an offshore grazing OTEC Plant. The plant should be modular. A 500kW to 1MW capacity. To be easily integratable with other modular plants to grow the capacity. Have low capital investment. Ideally, the plant shall output electricity only. The Hydrogen, Ammonia or other byproducts shall be done in separate modules, depending on the user's needs.
 
+The water intake depth = 800 to 1000m <br>
+The water outlet depth = 150 to 200m (to have negligible effects on the marine environment)
+
 Below is the suggestion for the design besis.
 
 <img alt="design basis rev.00" src="IMG/Design_Basis_Rev.00.png" height=600>
