@@ -11,9 +11,9 @@ water.
 collectors to warm up the seawater. This increases OTEC efficiency by ~10%
 (Yamada et al. 2009)
 
-<img width=800px src="https://github.com/yev-d/OTEC-open-source/blob/799ab1580ebf467763cc20662386da24c7c87289/IMG/OTEC-Poster.png">
+<img src="https://github.com/yev-d/OTEC-open-source/blob/799ab1580ebf467763cc20662386da24c7c87289/IMG/OTEC-Poster.png">
 
-[[Reference]](https://github.com/yev-d/OTEC-open-source/blob/main/Literature%20Review/README.md#:~:text=Offshore%20OTEC%20Facility) [[Link]](https://github.com/yev-d/OTEC-open-source/blob/88442f9ea836a4a90243942bd228572b7bf1d371/Literature%20Review/PDF/2010-06_Offshore%20OTEC%20Facility%2020-july-2010.pdf)
+[[Figure Reference]](https://github.com/yev-d/OTEC-open-source/blob/main/Literature%20Review/README.md#:~:text=Offshore%20OTEC%20Facility) [[Link]](https://github.com/yev-d/OTEC-open-source/blob/88442f9ea836a4a90243942bd228572b7bf1d371/Literature%20Review/PDF/2010-06_Offshore%20OTEC%20Facility%2020-july-2010.pdf)
 
 **Closed Cycle** – working fluid is heated by warm surface water in the evaporator. Steam is produced, driving the turbine. Working fluid drives the turbine. Then the steam condensed by the cold water and returned to the evaporator to start all over. A typical working fluid is Ammonia.
 
@@ -23,4 +23,4 @@ collectors to warm up the seawater. This increases OTEC efficiency by ~10%
 
 The image above is the MINI OTEC facility of 50kWe, with net production of 10kWe. Constructed in 1979 by the State of Hawaii [[Reference]](https://github.com/yev-d/OTEC-open-source/blob/main/Literature%20Review/README.md#:~:text=Research%20and%20Developments%20on%20Ocean%20Thermal%20Energy%20Conversion).
 
-[Back to Main Page]([yev-d/OTEC-open-source: An open source Ocean Thermal Energy Conversion (OTEC) project. (github.com)](https://github.com/yev-d/OTEC-open-source))
+[Back to Main Page](https://github.com/yev-d/OTEC-open-source)
