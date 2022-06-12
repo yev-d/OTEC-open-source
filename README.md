@@ -2,21 +2,23 @@
 
 An open-source Ocean Thermal Energy Conversion (OTEC) project.
 
-Hi, my name is Yev. I am looking for collaborators to work with on a marine/mechanical/civil engineering project, [OTEC](https://en.wikipedia.org/wiki/Ocean_thermal_energy_conversion). The OTEC plant I am aiming at is an off-shore grazing type. If you are one of the following, please get in touch with me and let us self-organize to tackle the climate change and energy crisis together:
+Hi, my name is Yev. I am looking for collaborators to work with on a marine/mechanical/civil engineering project, [OTEC](https://en.wikipedia.org/wiki/Ocean_thermal_energy_conversion) plant of an off-shore grazing type. If you are one of the following, please get in touch with me and let us self-organize to tackle the climate change and energy crisis together:
 
 * Mechanical/Civil/Chemical/Marine engineer with some spare time
 * Mechanical/Civil/Chemical/Marine engineering student wishing to contribute and learn
 * Master's/Doctorate students wishing to contribute or share the expertise
-* Hobbyists in of above-mentioned disciplines
+* Hobbyists in the disciplines mentioned above
 * Expert in heat exchangers/pumps/pipeline willing to contribute
 
 Please contact me either [here on the discussion board](https://github.com/yev-d/OTEC-open-source/discussions/1#discussion-4121236) or via LinkedIn: https://www.linkedin.com/in/yev-d-0344855a/
+
+If you haven't heard about the OTEC Plant or need a refresher, head over here for a brief [OTEC Plant 101](https://github.com/yev-d/OTEC-open-source/blob/faed2eac8a5f5c1297273f6227dcf2dd2ea728ff/OTEC-Plant-101.md). 
 
 ## Expectations
 
 To develop a robust concept design for an offshore grazing OTEC Plant. The plant should be modular. A 500kW to 1MW capacity. To be easily integratable with other modular plants to grow the capacity. Have low capital investment. Ideally, the plant shall output electricity only. The Hydrogen, Ammonia or other byproducts shall be done in separate modules, depending on the user's needs.
 
-The water intake depth = 800 to 1000m <br>
+The water intake depth = 800 to 1000m
 The water outlet depth = 150 to 200m (to have negligible effects on the marine environment)
 
 Below is the suggestion for the design basis.
@@ -42,3 +44,11 @@ In addition following categories are considered:
 11. [Maritime Law & Legal aspects](https://github.com/yev-d/OTEC-open-source/discussions/11#discussion-4123715)
 
 ...
+
+## License
+
+This project, its design documents, diagrams, drawings, work files, and any other files explaining the design and functionality of this project are licenced under [TAPR Open Hardware License](http://www.tapr.org/ohl.html)
+
+OTEC-open-source project is meant to be an [**Open Source Hardware**](https://www.oshwa.org/definition/) project:
+
+> Open-source hardware is hardware whose design is made publicly available so that anyone can study, modify, distribute, make, and sell the design or hardware based on that design.
