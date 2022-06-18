@@ -43,7 +43,11 @@ In addition following categories are considered:
 10. [Economics](https://github.com/yev-d/OTEC-open-source/discussions/10#discussion-4123714)
 11. [Maritime Law & Legal aspects](https://github.com/yev-d/OTEC-open-source/discussions/11#discussion-4123715)
 
-...
+## Status
+Status of [SHIP DESIGN Loop](Ship-design-loop/README.md).
+
+Last update: 18-July-2022
+<img title="Ship Design Loop status" src="Ship-design-loop/IMG/Ship-design-loop-status.png" alt="Ship Design Loop status">
 
 ## License
 
