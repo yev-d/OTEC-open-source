@@ -1,5 +1,5 @@
 # OTEC-open-source
-
+<img align="right" width="300px" src="IMG/Calling-contributors.png" title="American director Thomas H. Ince using a giant megaphone, on page 138 of Peter Milne, Motion Picture Directing; The Facts and Theories of the Newest Art (1922).(Peter Milne, Motion Picture Directing; The Facts and Theories of the Newest Art, Falk Publishing Co., New York, 1922, on the Internet Archive.)" alt="American director Thomas H. Ince using a giant megaphone, on page 138 of Peter Milne, Motion Picture Directing; The Facts and Theories of the Newest Art (1922).(Peter Milne, Motion Picture Directing; The Facts and Theories of the Newest Art, Falk Publishing Co., New York, 1922, on the Internet Archive.)">
 An open-source Ocean Thermal Energy Conversion (OTEC) project.
 
 Hi, my name is Yev. I am looking for collaborators to work with on a marine/mechanical/civil engineering project, [OTEC](https://en.wikipedia.org/wiki/Ocean_thermal_energy_conversion) plant of an off-shore grazing type. If you are one of the following, please get in touch with me and let us self-organize to tackle the climate change and energy crisis together:
