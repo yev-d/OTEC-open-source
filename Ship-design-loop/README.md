@@ -18,7 +18,7 @@
 
 ## Status
 
-Last update: 18-July-2022
+Last update: 25-July-2022
 <img title="Ship Design Loop status" src="IMG/Ship-design-loop-status.png" alt="Ship Design Loop status">
 
 ## Requirements
@@ -75,11 +75,11 @@ No one yet.
 
 ### Contributors:
 
-No one yet.
+[![](https://github.com/yev-d.png?size=50)](https://github.com/yev-d)
 
 ### Summary
 
-* Not started
+* [ABS Rules](https://ww2.eagle.org/en/rules-and-resources/rules-and-guides.html#/content/dam/eagle/rules-and-guides/current/special_service/10_barges_2022)
 
 ## Structure
 
