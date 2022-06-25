@@ -46,7 +46,6 @@ In addition following categories are considered:
 ## Status
 Status of [SHIP DESIGN Loop](Ship-design-loop/README.md).
 
-Last update: 18-July-2022
 <img title="Ship Design Loop status" src="Ship-design-loop/IMG/Ship-design-loop-status.png" alt="Ship Design Loop status">
 
 ## License
