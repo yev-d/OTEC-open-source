@@ -18,7 +18,6 @@
 
 ## Status
 
-Last update: 25-July-2022
 <img title="Ship Design Loop status" src="IMG/Ship-design-loop-status.png" alt="Ship Design Loop status">
 
 ## Requirements
