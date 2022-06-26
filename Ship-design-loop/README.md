@@ -31,6 +31,7 @@
 * Deck Crane
 * Evaporators
 * Condensers
+* Turbine(s)
 * Four vacuum pumps (two workings, two back-ups)
 * Emergency diesel generator
 * Four chain stoppers (One at each corner)
@@ -42,7 +43,7 @@
 * Gas leak detectors
 * Four thrusters or [Azipod](https://en.wikipedia.org/wiki/Azipod) for position stabilization
 
-<img height="75px" src="IMG/LOOP-1/L1-Requirements-Deck_Crane.png"> <img height="75px" src="IMG/LOOP-1/L1-Requirements-Evaporator.png"> <img height="75px" src="IMG/LOOP-1/L1-Requirements-Condenser.png"> <img height="75px" src="IMG/LOOP-1/L1-Requirements-Vacuum pump.png"> <img height="75px" src="IMG/LOOP-1/L1-Requirements-emcy-diesel-generator.png"> <img height="75px" src="IMG/LOOP-1/L1-Requirements-chainstopper.png"> <img height="75px" src="IMG/LOOP-1/L1-Requirements-mooring-winch.png"> <img height="75px" src="IMG/LOOP-1/L1-Requirements-deck-davit.png"> <img height="75px" src="IMG/LOOP-1/L1-Requirements-navigation-lights.png"> <img height="75px" src="IMG/LOOP-1/L1-Requirements-navigation-antennas.png"> <img height="75px" src="IMG/LOOP-1/L1-Requirements-Control-room.png"> <img height="75px" src="IMG/LOOP-1/L1-Requirements-gas-detector.png"> <img height="75px" src="IMG/LOOP-1/L1-Requirements-Azipod.png">
+<img height="75px" src="IMG/LOOP-1/L1-Requirements-Deck_Crane.png"> <img height="75px" src="IMG/LOOP-1/L1-Requirements-Evaporator.png"> <img height="75px" src="IMG/LOOP-1/L1-Requirements-Condenser.png"> <img height="75px" src="IMG/LOOP-1/L1_Ammonia-turbine.jpg"> <img height="75px" src="IMG/LOOP-1/L1-Requirements-Vacuum pump.png"> <img height="75px" src="IMG/LOOP-1/L1-Requirements-emcy-diesel-generator.png"> <img height="75px" src="IMG/LOOP-1/L1-Requirements-chainstopper.png"> <img height="75px" src="IMG/LOOP-1/L1-Requirements-mooring-winch.png"> <img height="75px" src="IMG/LOOP-1/L1-Requirements-deck-davit.png"> <img height="75px" src="IMG/LOOP-1/L1-Requirements-navigation-lights.png"> <img height="75px" src="IMG/LOOP-1/L1-Requirements-navigation-antennas.png"> <img height="75px" src="IMG/LOOP-1/L1-Requirements-Control-room.png"> <img height="75px" src="IMG/LOOP-1/L1-Requirements-gas-detector.png"> <img height="75px" src="IMG/LOOP-1/L1-Requirements-Azipod.png">
 
 ## Envelope Design
 
