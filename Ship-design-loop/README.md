@@ -42,8 +42,14 @@
 * Control room
 * Gas leak detectors
 * Four thrusters or [Azipod](https://en.wikipedia.org/wiki/Azipod) for position stabilization
+* Cold Water Pipe (CWP) stacking crane
 
-<img height="75px" src="IMG/LOOP-1/L1-Requirements-Deck_Crane.png"> <img height="75px" src="IMG/LOOP-1/L1-Requirements-Evaporator.png"> <img height="75px" src="IMG/LOOP-1/L1-Requirements-Condenser.png"> <img height="75px" src="IMG/LOOP-1/L1_Ammonia-turbine.jpg"> <img height="75px" src="IMG/LOOP-1/L1-Requirements-Vacuum pump.png"> <img height="75px" src="IMG/LOOP-1/L1-Requirements-emcy-diesel-generator.png"> <img height="75px" src="IMG/LOOP-1/L1-Requirements-chainstopper.png"> <img height="75px" src="IMG/LOOP-1/L1-Requirements-mooring-winch.png"> <img height="75px" src="IMG/LOOP-1/L1-Requirements-deck-davit.png"> <img height="75px" src="IMG/LOOP-1/L1-Requirements-navigation-lights.png"> <img height="75px" src="IMG/LOOP-1/L1-Requirements-navigation-antennas.png"> <img height="75px" src="IMG/LOOP-1/L1-Requirements-Control-room.png"> <img height="75px" src="IMG/LOOP-1/L1-Requirements-gas-detector.png"> <img height="75px" src="IMG/LOOP-1/L1-Requirements-Azipod.png">
+<img height="75px" src="IMG/LOOP-1/L1-Requirements-Deck_Crane.png"> <img height="75px" src="IMG/LOOP-1/L1-Requirements-Evaporator.png"> <img height="75px" src="IMG/LOOP-1/L1-Requirements-Condenser.png"> <img height="75px" src="IMG/LOOP-1/L1_Ammonia-turbine.jpg"> <img height="75px" src="IMG/LOOP-1/L1-Requirements-Vacuum pump.png"> <img height="75px" src="IMG/LOOP-1/L1-Requirements-emcy-diesel-generator.png"> <img height="75px" src="IMG/LOOP-1/L1-Requirements-chainstopper.png"> <img height="75px" src="IMG/LOOP-1/L1-Requirements-mooring-winch.png"> <img height="75px" src="IMG/LOOP-1/L1-Requirements-deck-davit.png"> <img height="75px" src="IMG/LOOP-1/L1-Requirements-navigation-lights.png"> <img height="75px" src="IMG/LOOP-1/L1-Requirements-navigation-antennas.png"> <img height="75px" src="IMG/LOOP-1/L1-Requirements-Control-room.png"> <img height="75px" src="IMG/LOOP-1/L1-Requirements-gas-detector.png"> <img height="75px" src="IMG/LOOP-1/L1-Requirements-Azipod.png"> <img height="75px" src="IMG/LOOP-1/L1_Jackup-hoist.png">
+### CPW
+
+A crane system, similar to rigging stacks on the Jack-Up barges or off-shore drilling rigs. The crane system would stack & connect the pieces of the CWP to lower them down into the water. The system should be able to have the tonnage capacity to hoist the weight of the full 1000m long CWP assembly.
+
+<img height="500px" src="IMG/LOOP-1/L1_CWP-Stack-up-crane.jpeg">
 
 ## Envelope Design
 
